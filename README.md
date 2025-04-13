@@ -1,6 +1,6 @@
 # 👨‍💻 [Your Name] - Full Stack Web Developer | AI Enthusiast
 
-![Profile Picture](https://www.example.com/profile_picture.png) <!-- Replace with your professional picture -->
+![Profile Picture](https://www.example.com/profile_picture.png) <!-- Remplacer avec ton image professionnelle -->
 
 Welcome to my GitHub! 👋  
 I’m a **full-stack web developer** with a strong background in **Computer Science** and a current Master's in **Artificial Intelligence**. I specialize in **Laravel** for backend development and **Vue.js** for frontend, creating high-quality, scalable web applications.
@@ -10,22 +10,22 @@ I’m a **full-stack web developer** with a strong background in **Computer Scie
 ## 🚀 My Skills & Technologies
 
 ### 🔧 **Backend Development**:
-- **PHP** <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-- **Laravel** <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-- **MySQL** <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+- **PHP** <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+- **Laravel** <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+- **MySQL** <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 - **API Development (RESTful)**
 
 ### 🌐 **Frontend Development**:
-- **Vue.js** <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-- **HTML5** <code><img width="15%" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg"></code>
-- **CSS3** <code><img width="15%" src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg"></code>
-- **JavaScript** <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+- **Vue.js** <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+- **HTML5** <code><img width="10%" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg"></code>
+- **CSS3** <code><img width="10%" src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg"></code>
+- **JavaScript** <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 
 ### 💼 **Development Tools**:
-- **Git** <code><img width="15%" src="https://www.vectorlogo.zone/logos/git/git-ar21.svg"></code>
-- **Node.js** <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-- **Docker** <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-- **Composer** <code><img width="15%" src="https://www.vectorlogo.zone/logos/composer/composer-ar21.svg"></code>
+- **Git** <code><img width="10%" src="https://www.vectorlogo.zone/logos/git/git-ar21.svg"></code>
+- **Node.js** <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+- **Docker** <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+- **Composer** <code><img width="10%" src="https://www.vectorlogo.zone/logos/composer/composer-ar21.svg"></code>
 
 ### 🧠 **Artificial Intelligence**:
 - **Machine Learning** and **Deep Learning**
@@ -95,14 +95,12 @@ This repository contains various **web development** projects using **Laravel** 
 ---
 
 ### Notes:
-1. **Profile Picture**: Replace the `https://www.example.com/profile_picture.png` with the actual URL of your professional profile picture.
-   
-2. **Technologies & Tools**: The use of tech icons (e.g., **Laravel**, **Vue.js**, **PHP**) via `<img>` tags adds a clean, professional touch to the README.
+1. **Profile Picture**: Remplace `https://www.example.com/profile_picture.png` par l'URL de ton image professionnelle.
 
-3. **Projects**: Showcase 3 to 4 of your best projects, with concise descriptions and links to the live projects or their documentation.
+2. **Icônes**: Les icônes ont été réduites à **10%** de la taille originale pour un aspect plus discret. Les utilisateurs peuvent toujours facilement les identifier sans qu'elles ne prennent trop de place dans le document.
 
-4. **Education & Certifications**: Highlight your **Master's in AI** and your **Computer Science Bachelor's**, which is key to positioning yourself as an AI enthusiast.
+3. **Projets**: Ajoute des liens vers tes projets ou vers leur documentation pour permettre aux visiteurs d'explorer davantage ton travail.
 
 ---
 
-Avec cette template, ton profil GitHub sera plus attractif pour les employeurs, partenaires et autres développeurs. Elle présente à la fois tes compétences techniques, ta formation, et tes projets, tout en mettant en valeur ton parcours en informatique et ton expertise en **Laravel** et **Vue.js**.
+Cette version offre un look plus propre et professionnel avec des icônes plus petites et moins intrusives tout en conservant un aspect visuellement agréable pour les lecteurs de ton profil GitHub.
